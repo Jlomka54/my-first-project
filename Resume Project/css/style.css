@@ -1,0 +1,275 @@
+body{
+    background: #F6F6FA;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 40px;
+    font-family: "Montserrat", sans-serif;
+    
+}
+.Wrapper{
+    background: #ffffff;
+    display: flex;
+    flex-direction: row-reverse;
+}
+/* Main content */
+.Main{
+    padding: 88px 80px 40px 80px;
+    box-sizing: border-box;
+}
+/* Saidbar */
+.Sidebar{
+    background: #E0EBFE;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    box-sizing: border-box;
+    width: 370px;
+}
+.Sidebar-content{
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+
+.contacts-title{
+
+line-height: normal;
+    font-weight: 700;
+    font-size: 22px;
+    color: #161d2a;
+margin-top: 0px;
+margin-bottom: 8px;
+}
+.contacts-type{
+
+font-weight: 700;
+font-size: 14px;
+line-height: 171%;
+color: #161d2a;
+margin-right: 8px;
+}
+
+.contacts-link{
+    font-weight: 400;
+    font-size: 14px;
+line-height: 24px;
+text-decoration-skip-ink: none;
+color: #2979ff;
+}
+.contacts-item{
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.contacts-box{
+margin-bottom: 40px;
+}
+
+/* Skills-conteiner */
+
+
+.skills-conteiner{
+    margin-bottom: 40px;
+}
+
+.skills-title{
+margin-top: 0;
+margin-bottom: 8px;;
+    font-weight: 700;
+    font-size: 22px;
+    color: #161d2a;
+
+}
+
+.skills-list{
+    padding-left: 16px;
+}
+
+.skills-list-item{
+font-weight: 400;
+font-size: 14px;
+line-height: 171%;
+color: #161d2a;
+}
+
+/* Soft Skills conteiner */
+
+.soft-skills-title{
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-weight: 700;
+font-size: 22px;
+color: #161d2a;
+}
+
+.soft-skills-list{
+padding-left: 16px;
+}
+.soft-skills-list-item{
+    font-weight: 400;
+font-size: 14px;
+line-height: 171%;
+color: #161d2a;
+}
+/*  Main content */
+
+.my-profetion{
+    margin-top: 0;
+    margin-bottom: 8px;
+font-weight: 700;
+font-size: 14px;
+line-height: 121%;
+color: #000;
+}
+
+.my-name{
+    margin-bottom: 12px;
+    margin-top: 0;
+font-weight: 700;
+font-size: 45px;
+line-height: 122%;
+color: #000;
+}
+
+.my-descr{
+font-weight: 400;
+font-size: 14px;
+line-height: 171%;
+color: #595959;
+}
+
+.my-info{
+    margin-bottom: 40px;
+}
+
+
+/* My Projects */
+
+.my-project-title{
+    font-weight: 700;
+font-size: 22px;
+line-height: 123%;
+color: #000;
+margin-bottom: 8px;
+margin-top: 0;
+}
+
+.my-projects-item{
+
+    font-weight: 700;
+font-size: 14px;
+line-height: 171%;
+color: #000;
+}
+
+.my-projects-list{
+    padding-left: 16px;
+}
+
+.my-projects-item-link{
+    font-weight: 400;
+font-size: 14px;
+line-height: 171%;
+color: #005fff;
+}
+
+.my-projects-item-tech{
+
+font-weight: 400;
+font-size: 14px;
+line-height: 171%;
+color: #595959;
+}
+
+.my-projects-conteiner{
+    margin-bottom: 40px;
+}
+
+/* Work EXP */
+
+.work-experience-title{
+    margin-top: 0;
+    margin-bottom: 9px;
+font-weight: 700;
+font-size: 22px;
+line-height: 123%;
+color: #000;
+}
+
+.work-experience-title-company{
+    margin-top: 0;
+    margin-bottom: 12px;
+font-weight: 700;
+font-size: 16px;
+line-height: 125%;
+color: #000;
+}
+.work-experience-title-company-Freelance{
+    font-weight: 700;
+font-size: 16px;
+line-height: 125%;
+    color: #6d9bf5;
+}
+.work-experience-time{
+font-weight: 400;
+font-size: 12px;
+line-height: 125%;
+color: #a8a8a8;
+margin-bottom: 8px;
+}
+.work-experience-time-element{
+    font-weight: 400;
+font-size: 12px;
+line-height: 125%;
+    color: #000;
+}
+
+.work-experience-list{
+padding-left: 16px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    color: #595959;
+
+}
+
+.work-experience-link{
+font-weight: 400;
+font-size: 14px;
+line-height: 171%;
+color: #595959;
+}
+
+.work-experience-title-conteiner{
+    margin-bottom: 12px;
+}
+
+.all-work-experience-conteiner{
+    margin-bottom: 44px;
+}
+
+/* My Education */
+
+.education{
+    margin-top: 0;
+    margin-bottom: 8px;
+font-weight: 700;
+font-size: 22px;
+color: #000;
+}
+.my-education{
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #6d9bf5;
+
+}
+.my-management{
+    margin-top: 0;
+    margin-bottom: 8px;
+font-weight: 700;
+font-size: 14px;
+color: #000;
+}
